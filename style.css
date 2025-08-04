@@ -4,8 +4,8 @@
     --branco: rgb(0, 0, 0);
     --cor-de-fundo:rgb(41, 41, 41);
     --fundo-senha: #00d3f8;
-    --fundo-texto: red;
-    --borda: red;
+    --fundo-texto: rgb(255, 81, 203);
+    --borda: rgb(0, 89, 255);
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
